@@ -1,1 +1,5 @@
 Print ' hello python your are the future'
+IF(hello python your are the future)
+  Print('YES') 
+  ELSE
+  Print('NO')
